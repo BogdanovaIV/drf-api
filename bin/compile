@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Install setuptools first
+pip install setuptools==59.5.0
+pip install django-allauth==0.44.0
